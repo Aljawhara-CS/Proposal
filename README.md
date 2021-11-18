@@ -19,8 +19,6 @@ Features which contains linking data to a more clearly visible picture,  are use
 - Matplotlib and Seaborn for plotting
 - The work will be done through Jupyter notebook.
 
-TO DO:
-•	Explore the data and come up with EDA phases then use a model to fit the data.
 
 
 
