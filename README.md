@@ -13,14 +13,14 @@ as fellow:
  Id	EmployeeName	JobTitle	BasePay	OvertimePay	OtherPay	Benefits	TotalPay	TotalPayBenefits	Year	Notes	Agency	Status
 Features which contains linking data to a more clearly visible picture,  are used to identify the most important features of this study.
 
-# Tools
-There are tools that will be used to achieve the goal of this study, such as:  matplotlib, pandas, seaborn, sklearn for discovering the data and train a model. The work will be done through Jupyter notebook.
-
-TO DO:
-•	Explore the data and come up with EDA phases then use a model to fit the data.
-
 # Tools 
 - Numpy and Pandas for data manipulation
 - Scikit-learn for modeling
 - Matplotlib and Seaborn for plotting
+- The work will be done through Jupyter notebook.
+
+TO DO:
+•	Explore the data and come up with EDA phases then use a model to fit the data.
+
+
 
